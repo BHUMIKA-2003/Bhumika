@@ -8,7 +8,6 @@ I am currently learning Data Structures and Algorithms.
 Languages i am currently working on:
 C++,
 Python,
-MySQL,
-HTML.
+MySQL.
 
 Contact me: singhbhumika003@gmail.com
